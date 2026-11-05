@@ -4,7 +4,7 @@
 
 **ES** — Proyecto de estadística espacial sobre la temperatura máxima diaria en puntos de una malla climática de Antioquia, Colombia, motivado por el calor en el Valle de Aburrá. Se prueba la normalidad y la autocorrelación espacial (test de Mantel), se construyen semivariogramas empíricos y ajustados y se interpola la temperatura sobre el departamento con kriging ordinario y universal, validado por validación cruzada. Desarrollado en R con Quarto y publicado como informe web.
 
-Informe publicado: <https://dvillaunal.github.io/geoestadistica-temperatura-valle-aburra/>
+Informe publicado: <https://dvillaunal.github.io/geoestadistica-temperatura-antioquia/>
 
 ## Objetivo
 
